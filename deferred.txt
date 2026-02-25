@@ -1,0 +1,7 @@
+https://prd-inss-webclient.omni.extreme.digital/static/js/main.js
+https://d.oracleinfinity.io/infy/acs/account/53a421751e674da418c7b65d1a8bcf8d/js/meu_inss/odc.js
+https://vlibras.gov.br/app2/vlibras-plugin.js
+https://meu.inss.gov.br/static/media/inss-logo.279ffe9e324fa0e725e2.webp
+https://prd-inss-omniv2-attachments.s3.us-east-2.amazonaws.com/assistants/6c150583-9bd3-4b33-89de-c21178a93043/webchannels/7e1188ab-82da-4e59-ac04-599d08af37c8/desktop-avatar-button?1740737740096
+https://meu.inss.gov.br/static/js/9923.3788be27.chunk.js
+https://vip-pmeuinss-api.inss.gov.br/log
